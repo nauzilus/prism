@@ -382,6 +382,11 @@ var components = {
 			"title": "Highlight Keywords",
 			"owner": "vkbansal",
 			"noCSS": true
+		},
+		"render-markup": {
+			"title": "Render Markup",
+			"owner": "nauzilus",
+			"themedCSS": true
 		}
 	}
 };
