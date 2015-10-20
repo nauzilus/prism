@@ -29,7 +29,8 @@ var components = {
 		"prism-coy": {
 			"title": "Coy",
 			"owner": "tshedor"
-		}
+		},
+		"prism-tomorrow": "Tomorrow"
 	},
 	"languages": {
 		"meta": {
